@@ -7,7 +7,7 @@ repo_url: https://github.com/michiko1116/mkdocs03/
 extra_javascript: []
 extra_css: []
 markdown_extensions: []
-# git@github.com:michiko1116/mkdocs03.git
+# git@github.com:katzkawai/mkdocs03.git
 pages:
 - ホーム: index.md
 - 本サイトについて: about.md
